@@ -28,9 +28,6 @@ Caso não haja excessões no login, o sistema vai exibir essa mensagem:
 ![image](https://user-images.githubusercontent.com/79271785/206582022-2feea73e-1d76-4360-974d-710e94098c4e.png)  
 
 
-## Detalhes  
-Deixei pequenos detalhes para maior interatividade pro usuário:  
-
 <hr>
 
 # Considerações finais:  
